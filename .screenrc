@@ -1,0 +1,7 @@
+escape ^Jj
+hardstatus alwayslastline "%w"
+startup_message off
+vbell off
+bind l windowlist
+hardstatus alwayslastline "[%02c] %`%-w%{=b bw}%n %t%{-}%+w"
+
