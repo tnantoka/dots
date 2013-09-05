@@ -18,8 +18,3 @@ colorscheme koehler
 set hlsearch
 
 nmap <ESC><ESC> :nohlsearch<CR><ESC>
-
-let g:neocomplcache_enable_at_startup = 1
-let g:neocomplcache_enable_auto_complete = 1
-inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
-
