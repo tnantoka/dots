@@ -34,6 +34,7 @@ NeoBundle 'The-NERD-Commenter'
 NeoBundle 'tpope/vim-rails'
 NeoBundle 'kchmck/vim-coffee-script'
 NeoBundle 'groenewege/vim-less'
+NeoBundle 'tpope/vim-markdown'
 
 filetype plugin indent on
 
