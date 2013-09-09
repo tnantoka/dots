@@ -35,6 +35,7 @@ NeoBundle 'tpope/vim-rails'
 NeoBundle 'kchmck/vim-coffee-script'
 NeoBundle 'groenewege/vim-less'
 NeoBundle 'tpope/vim-markdown'
+NeoBundle 'tpope/vim-surround'
 
 filetype plugin indent on
 
