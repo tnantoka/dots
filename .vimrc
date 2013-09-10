@@ -16,6 +16,8 @@ set fileformat=unix
 set hlsearch
 nmap <ESC><ESC> :nohlsearch<CR><ESC>
 
+set backspace=indent,eol,start
+
 colorscheme desert
 
 " NeoBundle
