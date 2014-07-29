@@ -38,7 +38,9 @@ NeoBundle 'kchmck/vim-coffee-script'
 NeoBundle 'groenewege/vim-less'
 NeoBundle 'tpope/vim-markdown'
 NeoBundle 'tpope/vim-surround'
+NeoBundle 'slim-template/vim-slim'
 
 filetype plugin indent on
 
 NeoBundleCheck
+
