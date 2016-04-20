@@ -8,6 +8,7 @@ set softtabstop=0
 set number
 set smartindent
 set incsearch
+set list
 
 set encoding=utf-8
 set fileencoding=utf-8
