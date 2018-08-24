@@ -21,3 +21,4 @@ set backspace=indent,eol,start
 
 colorscheme desert
 
+filetype plugin indent on
