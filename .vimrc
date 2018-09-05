@@ -19,6 +19,8 @@ nmap <ESC><ESC> :nohlsearch<CR><ESC>
 
 set backspace=indent,eol,start
 
+autocmd InsertLeave * set nopaste
+
 colorscheme desert
 
 filetype plugin indent on
